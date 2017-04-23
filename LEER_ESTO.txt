@@ -1,0 +1,10 @@
+Instrucciones de uso:
+1. Descargar e instalar el Software Wampserver
+2. Abrir el servidor y crear una base de datos de nombre "tienda" --- sin las comillas
+3. En la base de datos creada en el paso anterior, importar las tablas que vienen en este proyecto en la carpeta "tablas" 
+   las tablas estan en formato excell
+4. Crear un proyecto en cualquier IDE para lenguaje JAVA: JCreator, Eclipse... etc
+5. Agregar todas las clases de este deposito a su proyecto
+6. Agregar el conector de JDBC--->mysql inlcuido en este deposito (es el archivo con extensió .jar)
+
+7. Eso es todo, suerte con el proyecto, 
